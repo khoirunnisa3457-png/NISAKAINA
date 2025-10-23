@@ -1,6 +1,6 @@
 <div align="center">
     
-  <img src="NISAKAINA.jpg?text=Selamat+Datang+di+Profil+Saya" alt="Sentuhan Feminin Header" width="100%">
+  <img src="NISAKAINA.jpg,?text=Selamat+Datang+di+Profil+Saya" alt="Sentuhan Feminin Header" width="100%">
     
   <a href="https://github.com/USERNAME_ANDA">
     <img src="NISAKAINA.jpg" alt="Foto Profil" style="border-radius: 50%; border: 5px solid #ffffff; margin-top: -75px;">
