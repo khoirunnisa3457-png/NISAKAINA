@@ -6,7 +6,7 @@
     <img src="https://via.placeholder.com/150/F08080/FFFFFF?text=Foto" alt="Foto Profil" style="border-radius: 50%; border: 5px solid #ffffff; margin-top: -75px;">
   </a>
 
-  <h1 style="margin-top: 10px; color: #333333;">Nama Anda</h1>
+  <h1 style="margin-top: 10px; color: #333333;">NISAKAINA</h1>
   <p style="color: #F08080; font-weight: bold; font-size: 1.1em;">Developer Pemula | [Jabatan/Minat Anda]</p>
 </div>
 
