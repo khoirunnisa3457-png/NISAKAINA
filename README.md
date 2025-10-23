@@ -1,9 +1,9 @@
 <div align="center">
     
-  <img src="NISAKAINA.jpgtext=Selamat+Datang+di+Profil+Saya" alt="Sentuhan Feminin Header" width="100%">
+  <img src="NISAKAINA.jpg?text=Selamat+Datang+di+Profil+Saya" alt="Sentuhan Feminin Header" width="100%">
     
   <a href="https://github.com/USERNAME_ANDA">
-    <img src="NISAKAINA.jpgtext=Foto" alt="Foto Profil" style="border-radius: 50%; border: 5px solid #ffffff; margin-top: -75px;">
+    <img src="NISAKAINA.jpg" alt="Foto Profil" style="border-radius: 50%; border: 5px solid #ffffff; margin-top: -75px;">
   </a>
 
   <h1 style="margin-top: 10px; color: #333333;">NISAKAINA</h1>
