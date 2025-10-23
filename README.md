@@ -7,11 +7,11 @@
   </a>
 
   <h1 style="margin-top: 10px; color: #333333;">NISAKAINA</h1>
-  <p style="color: #F08080; font-weight: bold; font-size: 1.1em;">Developer Pemula | [Jabatan/Minat Anda]</p>
+  <p style="color: #F08080; font-weight: bold; font-size: 1.1em;">Kesehatan Yannas Husada | [SMKS]</p>
 </div>
 
 <p align="center">
-  Halo! Saya seorang developer yang antusias dengan **[Sebutkan minat Anda]**.
+  Halo! Saya seorang siswa yang antusias dengan **[mendesain Website]**.
   Saat ini sedang belajar HTML, CSS, dan JavaScript. Saya suka membuat UI yang indah dan responsif.
 </p>
 
