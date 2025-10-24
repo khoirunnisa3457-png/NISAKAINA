@@ -1,3 +1,10 @@
+/* Di file style.css */
+.welcome-message {
+    color: #555;
+    font-size: 1.2em;
+    margin-top: -10px; /* Sesuaikan sesuai kebutuhan layout Anda */
+    margin-bottom: 15px; /* Tambahkan sedikit ruang di bawah pesan */
+}
 /* Styling dasar untuk seluruh halaman */
 body {
     font-family: Arial, sans-serif;
