@@ -43,3 +43,45 @@ body {
     color: #333;
     font-size: 1.8em;
 }
+
+/* Styling untuk Tombol Aksi Utama (kelas .btn) - Asumsi ini sudah ada */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 25px; /* Bentuk tombol melengkung */
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s, border 0.3s;
+    cursor: pointer;
+}
+
+/* ----------------------------- */
+/* STYLING UNTUK SECONDARY BUTTON */
+/* ----------------------------- */
+
+/* Gaya dasar untuk tombol sekunder */
+.secondary-btn {
+    /* Mengambil properti dari .btn agar konsisten */
+    background-color: transparent; /* Latar belakang transparan */
+    color: #333; /* Warna teks gelap */
+    border: 2px solid #ccc; /* Border abu-abu tipis (Outline style) */
+}
+
+/* Efek hover untuk tombol sekunder */
+.secondary-btn:hover {
+    background-color: #f0f0f0; /* Latar belakang sedikit abu-abu saat di-hover */
+    color: #333;
+    border-color: #999;
+}
+
+/* Jika Anda ingin tombol sekunder memiliki warna latar belakang berbeda */
+/*
+.secondary-btn {
+    background-color: #f0f0f0; 
+    color: #333; 
+    border: 2px solid #f0f0f0; 
+}
+.secondary-btn:hover {
+    background-color: #ddd; 
+}
